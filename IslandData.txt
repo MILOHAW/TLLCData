@@ -9,6 +9,7 @@ GM 15 Incomplete z p
 TI 0 Incomplete z p
 Meduza 25 Incomplete NoZeppelin p
 dream 0 Complete z p
+PlantIsland 67 Complete z p
 Minigame_Thumpies 0 Complete z p
 Minigame_stacking 0 Complete z p
 Minigame_Simon 0 Complete z p
