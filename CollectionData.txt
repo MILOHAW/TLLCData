@@ -151,6 +151,7 @@ Monsters/Monster_pummel_meduza
 Monsters/Monster_meduza
 ;
 Candy:
+Monsters/Monster_mammott_meduza
 Monsters/Monster_toejammer_undof
 Monsters/Monster_noggin_undof
 Monsters/Monster_noggin_rare_undof
