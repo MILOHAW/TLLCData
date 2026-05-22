@@ -50,8 +50,8 @@ ITM_bloodcandy=99999999;coins=0
 food=99999999;coins=0
 foodb=99999999;coins=0
 xp=99999999;coins=0
-diamonds=220;food=9.99
-diamonds=105;food=4.99
-diamonds=1064;food=24.99
-diamonds=2340;food=49.99
-diamonds=6000;food=99.99
+diamonds=105;food=5
+diamonds=220;food=10
+diamonds=1064;food=25
+diamonds=2340;food=50
+diamonds=6000;food=100
