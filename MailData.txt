@@ -1,3 +1,7 @@
 ResetAllAccounts1-dontannounce;everyone;Clear data;Click this here button to reset all your data in case something went wrong! Don't press this unless you have an issue.;icon@exclaim;Clear
 
-ZewicZewcat;everyone;Welcome to Zmigys!;Heya! Welcome to Zmigys, the private server just press Tab and start writing! Good luck, eh!;icon@new;diamonds@99999999;foodB@99999999;coins@99999999;food@99999999;
+ZewicZewcat;everyone;Welcome to Zmigys!;Heya! Welcome to The strayed landscape, the private server! just press Tab and start writing! Good luck, eh!;icon@new;diamonds@99999999;foodB@99999999;coins@99999999;food@99999999;
+
+ZewicZewcat;everyone;Updates!;new upate! n/you added a welcome message, plant island wave 1, easy way to wake up monsters!;icon@new;diamonds@0;foodB@0;coins@0;food@0;
+
+ZewicZewcat;everyone;StarterPack!;hi here a starterpack;icon@new;diamonds@1500;foodB@500000;coins@5000000;food@500000;xp@800000;
