@@ -1,7 +1,7 @@
-stars=5000;diamonds=20
-coins=150000;diamonds=25
-diamonds=105;food=5
-diamonds=220;food=10
-diamonds=1064;food=250
-diamonds=2340;food=5000
-diamonds=6000;food=50000
+stars=25;diamonds=20
+coins=15000;diamonds=25
+diamonds=10;food=5
+diamonds=15;food=100
+diamonds=35;food=2500
+diamonds=100;food=50000
+diamonds=1000;food=500000
