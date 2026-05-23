@@ -1,1 +1,3 @@
-ZewicZewcat;everyone;StarterPack!;hi here a starterpack;icon@new;diamonds@200;foodB@50000;coins@50000;food@5000;xp@8000;
+ZewicZewcat;everyone;StarterPack!;hi here a starterpack;icon@new;diamonds@1500;foodB@50000;coins@50000;food@5000;xp@8000;
+
+ZewicZewcat;everyone;StarterPack!;Update! Plant island is here!, new loading screen!, new monsters;icon@new;diamonds@200;foodB@50000;coins@50000;food@5000;xp@8000;
