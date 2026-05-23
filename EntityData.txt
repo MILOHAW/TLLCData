@@ -69,6 +69,7 @@ Monsters/Monster_knucklehead diamonds=550 faerie@light 36000 50 coins=1@72@coins
 Monsters/Monster_knucklehead_meduza diamonds=550 faerie@light 36000 50 coins=1@72@coins=200 Magical kuncklehead,kuncklehead 6 0
 
 Monsters/Monster_potbelly_young coins=250 plant 300 1 coins=1@120@coins=60 Natural potbelly,potbelly_young 2 0
+Monsters/Monster_mammott coins=0 cold 300 5 coins=1@120@coins=60 Natural mammott,mammott 0 0
 Monsters/Monster_toejammer_young coins=250 water 300 1 coins=1@120@coins=60 Natural toejammer_young,toejammer_young 0 0
 Monsters/Monster_tweedle_young coins=300 air 300 1 coins=1@120@coins=60 Natural tweedle_young,tweedle_young 0 0
 Monsters/Monster_mammott_young coins=250 cold 300 1 coins=1@120@coins=60 Natural mammott,mammott_young 4 0
