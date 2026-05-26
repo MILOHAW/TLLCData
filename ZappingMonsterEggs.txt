@@ -1,31 +1,28 @@
 
 Maulch EM
-Monsters/Monster_toejammer
+
 ;
 Maulch City
-Monsters/Monster_toejammer_undof 1
+
 ;
 Fleechwurm Candy
-Monsters/Monster_toejammer_undof 1
+
 ;
 Wubbox Candy
-Monsters/Monster_toejammer_undof 1
+
 ;
 Wubbox_rare Candy
-Monsters/Monster_toejammer_undof 1
+
 ;
 Wheezel Organs
-Monsters/Monster_handmond 1
-Monsters/Monster_theremind 1
-Monsters/Monster_whimstlop 1
-Monsters/Monster_reebro 1
+
 ;
 Knurv Organs
-Monsters/Monster_toejammer_undof 1
+
 ;
 Poewk Calamity
-Monsters/Monster_toejammer_undof 1
+
 ;
 Pixolotl Calamity
-Monsters/Monster_toejammer_undof 1
+
 
