@@ -1,6 +1,6 @@
 
 Maulch EM
-Monsters/Monster_toejammer_undof 1
+Monsters/Monster_toejammer
 ;
 Maulch City
 Monsters/Monster_toejammer_undof 1
