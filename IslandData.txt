@@ -1,5 +1,3 @@
-Plant 0 Complete z
-Gear 0 Complete z
 City 0 Complete z
 EM 0 Complete z
 Candy 4 Complete NoZeppelin
@@ -12,7 +10,7 @@ GM 15 Incomplete z
 TI 0 Incomplete z
 Meduza 25 Incomplete NoZeppelin
 dream 0 Complete z
-temmie 4 Complete z
+Plant 0 Complete z
 Minigame_Thumpies 0 Complete z
 Minigame_stacking 0 Complete z
 Minigame_Simon 0 Complete z
