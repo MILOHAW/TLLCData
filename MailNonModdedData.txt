@@ -1,3 +1,3 @@
 ZewicZewcat;everyone;StarterPack!;hi here's a starterpack!;icon@new;diamonds@1500;foodB@50000;coins@50000;food@5000;xp@8000;
 
-ZewicZewcat;everyone;Update 1.1.0!;Hey guys! the strayed landscapes have been getting changes! from new islands to new monsters, it keeps getting bigger!! so excited to show you what we have in store! here's one of the new monsters and some diamonds to celebrate!;icon@new;diamonds@200;Monsters/Monster_toejammer_rare@1
+ZewicZewcat;everyone;Update 1.1.0!;Hey guys! the strayed landscapes have been getting changes! from new islands to new monsters, it keeps getting bigger!! so excited to show you what we have in store! here's one of the new monsters and some diamonds to celebrate!;icon@new;diamonds@200;Monsters/Monster_toejammer_rare_undof@1
