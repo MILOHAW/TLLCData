@@ -5,7 +5,7 @@ IsIslandSpecific=true
 Islands=Candy
 ShowOldCost=true
 HasCostOvrwrite=true
-CostOverwrite=200,diamonds
+CostOverwrite=100,diamonds
 HasDeadline=true
 Deadline=12/31/2025 03:00:00 AM
 ;
@@ -15,5 +15,5 @@ IsIslandSpecific=true
 Islands=City
 ShowOldCost=true
 HasCostOvrwrite=true
-CostOverwrite=9999,diamonds
+CostOverwrite=500,diamonds
 HasDeadline=false
