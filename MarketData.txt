@@ -1064,7 +1064,18 @@ Monsters/Monster_ghazt_dream
 Monsters/VOIDCORN_dream diamonds=666
 -
 structures:
-Structures/Structure_jukebox_dream
+Structures/Structure_crafter
+Structures/Structure_bakery
+Structures/Structure_timemachine
+Structures/Structure_breeding_undof
+Structures/Structure_breeding_undof2
+Structures/Structure_breeding_undof3
+Structures/Structure_castle_undof
+Structures/Structure_castle_undof2
+Structures/Structure_castle_undof3
+Structures/Structure_castle_undof4
+Structures/Structure_castle_undof5
+Structures/Structure_castle_undof6
 -
 monsters2:
 Monsters/Monster_mammott_dream
