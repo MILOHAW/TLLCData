@@ -480,7 +480,7 @@ Decoration/Decoration_sign_special
 Decoration/Decoration_sign_supercelestial
 Decoration/Decoration_sign_water
 ;
-temmie
+Plant
 monsters:
 Monsters/Monster_mammott
 Monsters/Monster_toejammer
@@ -777,6 +777,7 @@ Monsters/Monster_knife_rare
 Monsters/Monster_sprinklate_rare
 Monsters/Monster_keytrus_rare
 Monsters/Monster_gobstomper_rare
+Monsters/Monster_toejammer_rare_undof
 -
 decorations:
 Decoration/Decoration_test
@@ -809,6 +810,12 @@ Structures/Structure_timemachine
 Structures/Structure_breeding_undof
 Structures/Structure_breeding_undof2
 Structures/Structure_breeding_undof3
+Structures/Structure_castle_undof
+Structures/Structure_castle_undof2
+Structures/Structure_castle_undof3
+Structures/Structure_castle_undof4
+Structures/Structure_castle_undof5
+Structures/Structure_castle_undof6
 -
 deco_paths:
 Candy_path1
