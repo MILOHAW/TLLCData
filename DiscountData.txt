@@ -17,3 +17,12 @@ ShowOldCost=true
 HasCostOvrwrite=true
 CostOverwrite=500,diamonds
 HasDeadline=false
+;
+ID=Monsters/Monster_toejammer_rare_undof
+MarketSortersID=monsters
+IsIslandSpecific=true
+Islands=City
+ShowOldCost=true
+HasCostOvrwrite=true
+CostOverwrite=500,diamonds
+HasDeadline=false
